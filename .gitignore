@@ -1,0 +1,17 @@
+# Dependências
+/node_modules
+
+# Arquivos gerados pelo sistema operacional
+.DS_Store
+
+# Logs e arquivos de depuração
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de ambiente
+.env
+
+# Outros arquivos e diretórios específicos do Node.js
+/build
+/dist
